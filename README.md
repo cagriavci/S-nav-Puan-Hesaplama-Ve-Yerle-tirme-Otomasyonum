@@ -1,0 +1,1 @@
+# S-nav-Puan-Hesaplama-Ve-Yerle-tirme-Otomasyonum
